@@ -27,6 +27,8 @@ alt="I AM ALTERNATE TEXT" width="240" height="180" border="10" /></a>
 > quote quote quote quote quote quote quote quote quote quote quote quote quote quote 
 > quote quote quote quote quote quote quote quote quote quote quote quote quote quote 
 
+> quote quote quote quote quote quote quote quote quote quote quote quote quote quote 
+
 1. list one
 2. list two
 3. list another one
@@ -34,10 +36,15 @@ alt="I AM ALTERNATE TEXT" width="240" height="180" border="10" /></a>
 5. stop with the lists
 
 *jabdljbsaldjb*
+
 **adskjndkjabskd**
+
 **_slkjldnak;jsd;kj_**
+
 ~~DONT CROSS ME OUT~~
+
 > quote again
+
 ###### byeeeeeee
 
 
