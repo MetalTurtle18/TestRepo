@@ -38,7 +38,7 @@ A test repository
 
 * * *
 
-![MY IMAGE](https://media.idownloadblog.com/wp-content/uploads/2018/07/Samsung-iphone-X-ad-notch.jpg)
+![MY IMAGE](https://media.idownloadblog.com/wp-content/uploads/2018/07/Samsung-iphone-X-ad-notch.jpg =100x100)
 
 * * *
 
@@ -54,18 +54,6 @@ A test repository
 3. list another one
 4. list something else
 5. stop with the lists
-
-* * *
-
-st=>start: Start:>http://www.google.com[blank]
-e=>end:>http://www.google.com
-op1=>operation: My Operation
-sub1=>subroutine: My Subroutine
-cond=>condition: Yes or No?:>http://www.google.com
-io=>inputoutput: catch something…
-st->op1->cond
-cond(yes)->io->e
-cond(no)->sub1(right)->op1
 
 * * *
 
