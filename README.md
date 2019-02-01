@@ -38,7 +38,7 @@ A test repository
 
 * * *
 
-![MY IMAGE](https://media.idownloadblog.com/wp-content/uploads/2018/07/Samsung-iphone-X-ad-notch.jpg =100x)
+![MY IMAGE](https://media.idownloadblog.com/wp-content/uploads/2018/07/Samsung-iphone-X-ad-notch.jpg)
 
 * * *
 
