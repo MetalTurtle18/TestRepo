@@ -7,5 +7,5 @@ A test repository
 alt="I AM ALTERNATE TEXT" width="240" height="180" border="10" /></a>
 
 | x | f(x) |
-| - | ----* |
+| --- | ----: |
 | 1 | 1282 |
