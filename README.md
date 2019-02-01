@@ -5,7 +5,7 @@ A test repository
 # header 1
 ## header 2
 ### header 3
-####header 4
+#### header 4
 ##### header 5
 ###### header 6
 
@@ -19,8 +19,14 @@ alt="I AM ALTERNATE TEXT" width="240" height="180" border="10" /></a>
 | an apple | Rabbit |
 | yoyo | quote |
 
+- [x] CHECK ME
+- [ ] please?
+
+![MY IMAGE](https://media.idownloadblog.com/wp-content/uploads/2018/07/Samsung-iphone-X-ad-notch.jpg)
+
 > quote quote quote quote quote quote quote quote quote quote quote quote quote quote 
 > quote quote quote quote quote quote quote quote quote quote quote quote quote quote 
+
 1. list one
 2. list two
 3. list another one
